@@ -13,6 +13,26 @@ body {
     font-family: 'Abhaya Libre', serif;
     font-weight: 700;
     text-align: center;
+}
+
+nav {
+    width: 100%;
+    min-height: 64px;
+    background-color: rgb(110, 11, 20, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+    font-size: 40px;
+    color: white;
+}
+
+.element {
+    width: 100%;
+    height: calc(100vh - 64px);
     display: flex;
     justify-content: center;
     align-items: center;
