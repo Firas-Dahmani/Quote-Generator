@@ -1,3 +1,5 @@
+# Quotes Live ==> [Quote-Generator](https://firas-dahmani.github.io/Quote-Generator/)
+
 ## What is it?
 
   Once loaded, it will show a random quote!
