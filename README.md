@@ -1,6 +1,3 @@
-<h1> Quote Generator </h1>
-
-
 ## What is it?
 
   Once loaded, it will show a random quote!
