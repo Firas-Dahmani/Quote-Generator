@@ -1,4 +1,4 @@
-# Quotes Live - [GO-Live](https://firas-dahmani.github.io/Quote-Generator/)
+# [Quotes Live](https://firas-dahmani.github.io/Quote-Generator/)
 
 ## What is it?
 
